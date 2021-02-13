@@ -1,1 +1,1 @@
-echo "I have a $color $car.";
+echo "do I work?";
